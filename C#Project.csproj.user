@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministratorUC\UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdministratorUC\UC_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdministratorUC\UC_ViewUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdministratorUC\US_AddUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUC\UCCBuy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerUC\UCC_Chart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerUC\UCC_Policies.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistUC\UCPSellMedicine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PharmacistUC\UCP_AddMedicine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PharmacistUC\UCP_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PharmacistUC\UCP_Validation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
